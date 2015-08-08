@@ -1,0 +1,33 @@
+#name, #message {
+    width: 300px;
+    display:inline;
+    margin-bottom: 10px;
+    background-color: #444444;
+}
+
+#inputForm {
+    background: dimgray center;
+    height:50px;
+    margin: auto;
+    padding-top:10px;
+}
+
+#name, #message {
+    width: 300px;
+   color: #fff;
+ }
+
+h4 {
+    margin-top:5px;
+}
+
+
+#container{
+    font-size:25px;
+}
+
+button {
+    border-radius:10px;
+    height:25px;
+    font-size: 15px;
+}
